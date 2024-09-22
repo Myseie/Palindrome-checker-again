@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Palindromchecker with c#\bin\Debug\net8.0\Palindromchecker with c#.exe
+D:\Programmering\Programmering\Palindromchecker with c#\bin\Debug\net8.0\Palindromchecker with c#.deps.json
+D:\Programmering\Programmering\Palindromchecker with c#\bin\Debug\net8.0\Palindromchecker with c#.runtimeconfig.json
+D:\Programmering\Programmering\Palindromchecker with c#\bin\Debug\net8.0\Palindromchecker with c#.dll
+D:\Programmering\Programmering\Palindromchecker with c#\bin\Debug\net8.0\Palindromchecker with c#.pdb
+D:\Programmering\Programmering\Palindromchecker with c#\obj\Debug\net8.0\Palindromchecker with c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Palindromchecker with c#\obj\Debug\net8.0\Palindromchecker with c#.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Palindromchecker with c#\obj\Debug\net8.0\Palindromchecker with c#.AssemblyInfo.cs
+D:\Programmering\Programmering\Palindromchecker with c#\obj\Debug\net8.0\Palindromchecker with c#.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Palindromchecker with c#\obj\Debug\net8.0\Palindromchecker with c#.dll
+D:\Programmering\Programmering\Palindromchecker with c#\obj\Debug\net8.0\refint\Palindromchecker with c#.dll
+D:\Programmering\Programmering\Palindromchecker with c#\obj\Debug\net8.0\Palindromchecker with c#.pdb
+D:\Programmering\Programmering\Palindromchecker with c#\obj\Debug\net8.0\Palindromchecker with c#.genruntimeconfig.cache
+D:\Programmering\Programmering\Palindromchecker with c#\obj\Debug\net8.0\ref\Palindromchecker with c#.dll
